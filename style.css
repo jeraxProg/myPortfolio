@@ -729,7 +729,7 @@ textarea:valid~label  {
   }
   @media (max-width: 350px){
 	.nav > .nav-links > a {
-		padding: 5px 0;
+		padding: 2px 0;
 	}
 
 
