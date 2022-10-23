@@ -688,7 +688,6 @@ textarea:valid~label  {
       position: absolute;
       display: block;
       width: 20%;
-    
       height: 0px;
       transition: all 0.3s ease-in;
       overflow-y: hidden;
@@ -728,6 +727,13 @@ textarea:valid~label  {
 			}
 	
   }
+  @media (max-width: 350px){
+	.nav > .nav-links > a {
+		padding: 5px 0;
+	}
+
+
+}
 
   @media (max-width: 672px) {
     .nav > .nav-links > a {
@@ -820,6 +826,9 @@ textarea:valid~label  {
 	#about .col-right h1 {
 		text-align: left;
 	}
+
+
+
 	/* End About */
 
 	
