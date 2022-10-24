@@ -649,9 +649,11 @@ textarea:valid~label  {
 	#contact form button {
 		width: 100%;
 		
-	
-		
 	}
+	#contact form .row {
+		display: block;
+	}
+	
 
 }
 
@@ -732,6 +734,8 @@ textarea:valid~label  {
 	.nav > .nav-links > a {
 		padding: 2px 0;
 	}
+	
+
 
 
 }
@@ -827,6 +831,9 @@ textarea:valid~label  {
 	#about .col-right h1 {
 		text-align: left;
 	}
+
+	
+
 
 
 
